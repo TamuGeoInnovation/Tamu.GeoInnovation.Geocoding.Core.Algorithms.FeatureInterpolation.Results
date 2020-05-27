@@ -131,9 +131,8 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\..\..\Common.Core.Geo.Geometries\Src\Main\Common.Core.Geo.Geometries.Dev.csproj">
-      <Project>{E8164C90-2753-46F3-937A-653039318563}</Project>
+      <Project>{e8164c90-2753-46f3-937a-653039318563}</Project>
       <Name>Common.Core.Geo.Geometries.Dev</Name>
-      <Private>False</Private>
     </ProjectReference>
     <ProjectReference Include="..\..\..\Geocoding.Core.Metadata.FeatureInterpolationTypes\src\Main\Geocoding.Core.Metadata.FeatureInterpolationTypes.Dev.csproj">
       <Project>{E3F7B628-9686-410D-A8D8-352FC4648088}</Project>
